@@ -13,5 +13,9 @@ index.js <- Main file of AI
 node --max-old-space-size=6144 index.js
 ```
 
-# Before start run:
+# Before start do:
+RUN
+```bash
 npm i
+```
+Change all tokens and API Keys
